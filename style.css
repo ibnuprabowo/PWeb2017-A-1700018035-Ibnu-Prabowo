@@ -1,0 +1,29 @@
+.gambarku{
+	width: 100%;
+}
+#Judul {
+    font-family: calibri;
+    font-size: 30px;
+    text-transform: uppercase;
+    border-top: 10px solid #fff;
+    border-bottom: 10px solid #fff;
+    text-align: center;
+    background-color: #8ad0ff;
+    padding: 10px 0px;
+    font-weight: bold;
+}
+.tombolku{
+	background: #3498db;
+	width: 100%;
+	text-align: center;
+}
+.konten{
+    box-shadow: 14px 10px #4787b17a;
+    background: #ffffffc2;
+    padding: 20px;
+    width: 60%;
+}
+body{
+	background:url(bbbb.jpg) no-repeat fixed;
+    background-size: 100%;
+}
